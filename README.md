@@ -7,3 +7,9 @@ Roop Permanent BackUp on Google Drive : <br>
 Run roop: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb)
 
+# If you see this pop up just download the .ipynb files and manually upload it on google colab
+![save](https://github.com/neuralfalcon/roop_colab/assets/139750329/33fb5bdd-f8ae-4d71-ab02-f994168026ec)
+
+
+
+
