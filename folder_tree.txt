@@ -1,0 +1,94 @@
+/content/roop/
+|-- .flake8
+|-- .github/
+    /content/roop/.github/
+    |-- FUNDING.yml
+    |-- ISSUE_TEMPLATE/
+        /content/roop/.github/ISSUE_TEMPLATE/
+        |-- bug.md
+        |-- installation.md
+    |-- examples/
+        /content/roop/.github/examples/
+        |-- snapshot.mp4
+        |-- source.jpg
+        |-- target.mp4
+    |-- workflows/
+        /content/roop/.github/workflows/
+        |-- ci.yml
+|-- .gitignore
+|-- CONTRIBUTING.md
+|-- LICENSE
+|-- README.md
+|-- checkpoints/
+    /content/roop/checkpoints/
+    |-- .ipynb_checkpoints/
+        /content/roop/checkpoints/.ipynb_checkpoints/
+    |-- inswapper_128.fp16.onnx
+    |-- inswapper_128.onnx
+    |-- models/
+        /content/roop/checkpoints/models/
+        |-- buffalo_l/
+            /content/roop/checkpoints/models/buffalo_l/
+            |-- 1k3d68.onnx
+            |-- 2d106det.onnx
+            |-- det_10g.onnx
+            |-- genderage.onnx
+            |-- w600k_r50.onnx
+|-- gfpgan/
+    /content/roop/gfpgan/
+    |-- weights/
+        /content/roop/gfpgan/weights/
+        |-- detection_Resnet50_Final.pth
+        |-- parsing_parsenet.pth
+|-- models/
+    /content/roop/models/
+    |-- GFPGANv1.4.pth
+|-- mypy.ini
+|-- requirements-headless.txt
+|-- requirements.txt
+|-- requirements_colab.txt
+|-- roop/
+    /content/roop/roop/
+    |-- __init__.py
+    |-- __pycache__/
+        /content/roop/roop/__pycache__/
+        |-- __init__.cpython-310.pyc
+        |-- capturer.cpython-310.pyc
+        |-- core.cpython-310.pyc
+        |-- face_analyser.cpython-310.pyc
+        |-- face_reference.cpython-310.pyc
+        |-- globals.cpython-310.pyc
+        |-- metadata.cpython-310.pyc
+        |-- typing.cpython-310.pyc
+        |-- ui.cpython-310.pyc
+        |-- utilities.cpython-310.pyc
+    |-- capturer.py
+    |-- core.py
+    |-- face_analyser.py
+    |-- face_reference.py
+    |-- globals.py
+    |-- metadata.py
+    |-- predictor.py
+    |-- processors/
+        /content/roop/roop/processors/
+        |-- __init__.py
+        |-- __pycache__/
+            /content/roop/roop/processors/__pycache__/
+            |-- __init__.cpython-310.pyc
+        |-- frame/
+            /content/roop/roop/processors/frame/
+            |-- __init__.py
+            |-- __pycache__/
+                /content/roop/roop/processors/frame/__pycache__/
+                |-- __init__.cpython-310.pyc
+                |-- core.cpython-310.pyc
+                |-- face_enhancer.cpython-310.pyc
+                |-- face_swapper.cpython-310.pyc
+            |-- core.py
+            |-- face_enhancer.py
+            |-- face_swapper.py
+    |-- typing.py
+    |-- ui.json
+    |-- ui.py
+    |-- utilities.py
+|-- run.py
