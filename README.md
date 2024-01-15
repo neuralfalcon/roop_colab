@@ -9,7 +9,7 @@ Download [roop.zip](https://github.com/neuralfalcon/roop_colab/raw/main/roop.zip
 Roop Permanent BackUp on Google Drive : <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/roop_colab/blob/main/Make_Roop_Backup.ipynb)
 ## Step 3:
-Run roop (Remove opennsfw2) & Use same gmail account or share the folder with your current gmail account<br>
+Access new roop.zip file(1.7GB) from Google drive and Run roop (Remove opennsfw2) , Use same gmail account or share the 'RoopFaceSwap_Backup' with your current gmail account<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb)
 
 
