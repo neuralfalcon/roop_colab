@@ -4,7 +4,7 @@
 
 
 ## Step 1:
-Download [roop.zip](https://github.com/neuralfalcon/roop_colab/raw/main/roop.zip) <br>
+Download [roop.zip](https://github.com/neuralfalcon/roop_colab/raw/main/roop.zip) (This 3.2mb file used for step 2)<br>
 ## Step 2:
 Roop Permanent BackUp on Google Drive : <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/roop_colab/blob/main/Make_Roop_Backup.ipynb)
