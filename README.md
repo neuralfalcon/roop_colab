@@ -47,6 +47,7 @@ If you know Python, take a look at this code for a better understanding.
 7. Open google drive make a folder 'RoopFaceSwap_Backup' then upload the roop.zip there
 8. Download roop_no_ban.ipynb [roop colab](https://github.com/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb) and upload it on google colab
 9. Then run this step by step first it will access  RoopFaceSwap_Backup/roop.zip from google drive make sure you are using same gmail account
+10. While installing the requirements.txt file on Google Colab, it automatically restarts. Don't panic. After the restart, run the next cell.
 
 
 
