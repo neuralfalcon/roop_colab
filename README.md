@@ -29,6 +29,19 @@ Access new roop.zip file(1.7GB) from Google drive and Run roop (Remove opennsfw2
 ## Still you have this issue
 ![image](https://github.com/neuralfalcon/roop_colab/assets/139750329/0faace44-a0b4-4a0a-ac50-3fcb1ed081b2) <br>
 ## Follow these step to make a new roop.zip file (may be 1.7 gb) from local computer then upload it in google drive inside 'RoopFaceSwap_Backup'folder
+### Scenario 1: You have Python installed on your local machine. (Just 2 clicks to download all models and make new `roop.zip`)
+1. Download [roop.zip](https://github.com/neuralfalcon/roop_colab/raw/main/roop.zip) (3.2mb)
+2. Download Make_roop.zip.ipynb
+3. Move roop.zip(3.2MB) and Make_roop.zip.ipynb inside any folder like this<br>
+   ![image](https://github.com/neuralfalcon/roop_colab/assets/139750329/220da98b-b0ac-4aa6-a464-aa3a9b806488)
+4. Run `Make_roop.zip.ipynb`. It will take time depending on your internet speed.
+5. You will get new roop.zip file (may be 1.7GB)
+6. Open google drive and make a folder called  `'RoopFaceSwap_Backup'` and upload `roop.zip`(may be 1.7GB) inside this folder
+7. Download roop_no_ban.ipynb [roop colab](https://github.com/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb) and upload it on google colab
+9. Then run this step by step first it will access  `RoopFaceSwap_Backup/roop.zip` from google drive make sure you are using same gmail account
+10. While installing the requirements.txt file on Google Colab, it automatically restarts. Don't panic. After the restart, run the next cell.
+
+### Scenario 2: You don't have Python installed on your local machine.  (Manually download each model, configure path and make new `roop.zip`)
 1. Download [roop.zip](https://github.com/neuralfalcon/roop_colab/raw/main/roop.zip) (3.2mb)
 2. Extract roop.zip
 3. Download all Models<br>
@@ -44,9 +57,9 @@ Access new roop.zip file(1.7GB) from Google drive and Run roop (Remove opennsfw2
 If you know Python, take a look at this code for a better understanding.
 [Make_Roop_Backup.ipynb](https://github.com/neuralfalcon/roop_colab/blob/main/Make_Roop_Backup.ipynb)
 6. Make a new roop.zip file (may be 1.7gb)
-7. Open google drive make a folder 'RoopFaceSwap_Backup' then upload the roop.zip there
+7. Open google drive make a folder `'RoopFaceSwap_Backup'` then upload the roop.zip there
 8. Download roop_no_ban.ipynb [roop colab](https://github.com/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb) and upload it on google colab
-9. Then run this step by step first it will access  RoopFaceSwap_Backup/roop.zip from google drive make sure you are using same gmail account
+9. Then run this step by step first it will access  `RoopFaceSwap_Backup/roop.zip` from google drive make sure you are using same gmail account
 10. While installing the requirements.txt file on Google Colab, it automatically restarts. Don't panic. After the restart, run the next cell.
 
 
