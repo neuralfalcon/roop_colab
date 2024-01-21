@@ -40,7 +40,7 @@ Access new roop.zip file(1.7GB) from Google drive and Run roop (Remove opennsfw2
 [parsing_parsenet](https://github.com/xinntao/facexlib/releases/download/v0.2.2/parsing_parsenet.pth) <br>
 [onnx_gpu_1.17.0](https://github.com/karaokenerds/python-audio-separator/releases/download/v0.12.1/onnxruntime_gpu-1.17.0-cp310-cp310-linux_x86_64.whl) <br>
 4. Follow the folder structure to move the models to specific path
-[Folder Structure ](https://github.com/neuralfalcon/roop_colab/blob/main/folder_tree.txt)
+[Folder Structure ](https://github.com/neuralfalcon/roop_colab/blob/main/folder_tree.txt) <br>
 If you know Python, take a look at this code for a better understanding.
 [Make_Roop_Backup.ipynb](https://github.com/neuralfalcon/roop_colab/blob/main/Make_Roop_Backup.ipynb)
 6. Make a new roop.zip file (may be 1.7gb)
