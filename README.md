@@ -70,4 +70,8 @@ If you know Python, take a look at this code for a better understanding.
 if you want to use `inswapper_128.fp16.onnx`
 open `roop\roop\processors\frame\face_swapper.py`
 Comment out line 24 and uncomment line 25.
+# Credit 
+- [s0md3v](https://github.com/s0md3v/roop) for Original roop code.
+- [deepinsight](https://github.com/deepinsight) for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
+- [GFPGAN](https://github.com/TencentARC/GFPGAN)  for their code and models.
 
