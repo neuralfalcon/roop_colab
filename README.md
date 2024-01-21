@@ -31,7 +31,7 @@ Access new roop.zip file(1.7GB) from Google drive and Run roop (Remove opennsfw2
 ## Follow these step to make a new roop.zip file (may be 1.7 gb) from local computer then upload it in google drive inside 'RoopFaceSwap_Backup'folder
 ### Scenario 1: You have Python installed on your local machine. (Just 2 clicks to download all models and make new `roop.zip`)
 1. Download [roop.zip](https://github.com/neuralfalcon/roop_colab/raw/main/roop.zip) (3.2mb)
-2. Download Make_roop.zip.ipynb
+2. Download [Make_roop.zip.ipynb](https://github.com/neuralfalcon/roop_colab/blob/main/Make_roop.zip.ipynb)
 3. Move roop.zip(3.2MB) and Make_roop.zip.ipynb inside any folder like this<br>
    ![image](https://github.com/neuralfalcon/roop_colab/assets/139750329/220da98b-b0ac-4aa6-a464-aa3a9b806488)
 4. Run `Make_roop.zip.ipynb`. It will take time depending on your internet speed.
