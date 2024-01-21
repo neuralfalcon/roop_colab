@@ -64,7 +64,7 @@ If you know Python, take a look at this code for a better understanding.
 
 
 ## Note We have 2 Face Swapper Model
-`inswapper_128.onnx` 529MB (By default we are using this, slow but good result)
+`inswapper_128.onnx` 529MB (By default we are using this, slow but good result) <br>
 `inswapper_128.fp16.onnx` 264MB (Fast but sometime not perform good) from https://github.com/Hillobar/Rope
 
 if you want to use `inswapper_128.fp16.onnx`
