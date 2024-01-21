@@ -32,15 +32,15 @@ Access new roop.zip file(1.7GB) from Google drive and Run roop (Remove opennsfw2
 1. Download [roop.zip](https://github.com/neuralfalcon/roop_colab/raw/main/roop.zip) (3.2mb)
 2. Extract roop.zip
 3. Download all Models<br>
-![inswapper_128](https://huggingface.co/countfloyd/deepfake/resolve/main/inswapper_128.onnx) <br>
-![inswapper_128_fp16](https://github.com/Hillobar/Rope/releases/download/Sapphire/inswapper_128.fp16.onnx)  <br>
-![buffalo_l](https://github.com/deepinsight/insightface/releases/download/v0.7/buffalo_l.zip)   (you need to extract this one)<br>
-![GFPGANv1_4 ](https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth)  <br>
-![detection_Resnet50_Final](https://github.com/xinntao/facexlib/releases/download/v0.1.0/detection_Resnet50_Final.pth)  <br>
-![parsing_parsenet](https://github.com/xinntao/facexlib/releases/download/v0.2.2/parsing_parsenet.pth) <br>
-![onnx_gpu_1.17.0](https://github.com/karaokenerds/python-audio-separator/releases/download/v0.12.1/onnxruntime_gpu-1.17.0-cp310-cp310-linux_x86_64.whl) <br>
+[inswapper_128](https://huggingface.co/countfloyd/deepfake/resolve/main/inswapper_128.onnx) <br>
+[inswapper_128_fp16](https://github.com/Hillobar/Rope/releases/download/Sapphire/inswapper_128.fp16.onnx) (Optional) <br>
+[buffalo_l](https://github.com/deepinsight/insightface/releases/download/v0.7/buffalo_l.zip)   (you need to extract this one)<br>
+[GFPGANv1_4 ](https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth)  <br>
+[detection_Resnet50_Final](https://github.com/xinntao/facexlib/releases/download/v0.1.0/detection_Resnet50_Final.pth)  <br>
+[parsing_parsenet](https://github.com/xinntao/facexlib/releases/download/v0.2.2/parsing_parsenet.pth) <br>
+[onnx_gpu_1.17.0](https://github.com/karaokenerds/python-audio-separator/releases/download/v0.12.1/onnxruntime_gpu-1.17.0-cp310-cp310-linux_x86_64.whl) <br>
 4. Follow the folder structure to move the models to specific path
-  ![Folder Structure ](https://github.com/neuralfalcon/roop_colab/blob/main/folder_tree.txt)
+[Folder Structure ](https://github.com/neuralfalcon/roop_colab/blob/main/folder_tree.txt)
 5. Make a new roop.zip file (may be 1.7gb)
 6. Open google drive make a folder 'RoopFaceSwap_Backup' then upload the roop.zip there
 7. Download roop_no_ban.ipynb [roop colab](https://github.com/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb) and upload it on google colab
