@@ -37,7 +37,7 @@ Access new roop.zip file(1.7GB) from Google drive and Run roop (Remove opennsfw2
 4. Run `Make_roop.zip.ipynb`. It will take time depending on your internet speed.
 5. You will get new roop.zip file (may be 1.7GB)
 6. Open google drive and make a folder called  `'RoopFaceSwap_Backup'` and upload `roop.zip`(may be 1.7GB) inside this folder
-7. Download roop_no_ban.ipynb [roop colab](https://github.com/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb) and upload it on google colab
+7. Download [roop_no_ban.ipynb](https://github.com/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb) and upload it on google colab
 9. Then run this step by step first it will access  `RoopFaceSwap_Backup/roop.zip` from google drive make sure you are using same gmail account
 10. While installing the requirements.txt file on Google Colab, it automatically restarts. Don't panic. After the restart, run the next cell.
 
@@ -58,7 +58,7 @@ If you know Python, take a look at this code for a better understanding.
 [Make_Roop_Backup.ipynb](https://github.com/neuralfalcon/roop_colab/blob/main/Make_Roop_Backup.ipynb)
 6. Make a new roop.zip file (may be 1.7gb)
 7. Open google drive make a folder `'RoopFaceSwap_Backup'` then upload the roop.zip there
-8. Download roop_no_ban.ipynb [roop colab](https://github.com/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb) and upload it on google colab
+8. Download [roop_no_ban.ipynb](https://github.com/neuralfalcon/roop_colab/blob/main/roop_no_ban.ipynb) and upload it on google colab
 9. Then run this step by step first it will access  `RoopFaceSwap_Backup/roop.zip` from google drive make sure you are using same gmail account
 10. While installing the requirements.txt file on Google Colab, it automatically restarts. Don't panic. After the restart, run the next cell.
 
